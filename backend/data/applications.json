@@ -1,0 +1,26 @@
+[
+  {
+    "id": "app-northwind",
+    "company": "Northwind Labs",
+    "role": "Senior Frontend Engineer",
+    "location": "Remote (US)",
+    "url": "https://example.com/jobs/northwind-senior-frontend",
+    "description": "About the role\n\nNorthwind Labs is looking for a Senior Frontend Engineer to lead development of our analytics dashboard.\n\nWhat you'll do\n- Build and maintain React + TypeScript applications\n- Partner with design on a shared component library\n- Improve performance and accessibility across the product\n\nWhat we're looking for\n- 5+ years of frontend experience\n- Deep knowledge of React, TypeScript, and modern CSS\n- Experience with data visualization is a plus"
+  },
+  {
+    "id": "app-contoso",
+    "company": "Contoso",
+    "role": "Full Stack Developer",
+    "location": "Seattle, WA",
+    "url": "https://example.com/jobs/contoso-full-stack",
+    "description": "Contoso is hiring a Full Stack Developer to work across our Python services and web client.\n\nResponsibilities\n- Design REST APIs in Flask\n- Ship features end to end in a Next.js frontend\n- Write tests and participate in code review\n\nRequirements\n- 3+ years building web applications\n- Python and JavaScript/TypeScript\n- Familiarity with SQL databases"
+  },
+  {
+    "id": "app-fabrikam",
+    "company": "Fabrikam",
+    "role": "Software Engineer, Platform",
+    "location": "New York, NY",
+    "url": "https://example.com/jobs/fabrikam-platform",
+    "description": "Join Fabrikam's platform team to build the internal tools that power hundreds of engineers.\n\nYou will\n- Own CI/CD pipelines and developer tooling\n- Improve build times and reliability\n\nYou have\n- Strong fundamentals in at least one systems or scripting language\n- Experience with cloud infrastructure"
+  }
+]

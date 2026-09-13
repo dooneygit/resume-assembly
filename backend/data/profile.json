@@ -1,0 +1,54 @@
+{
+  "experiences": [
+    {
+      "id": "exp-1",
+      "title": "Software Engineer",
+      "company": "Acme Corp",
+      "location": "Austin, TX",
+      "startDate": "Jun 2023",
+      "endDate": "Present",
+      "bullets": [
+        { "id": "exp-1-b1", "text": "Built a React component library adopted by 6 product teams" },
+        { "id": "exp-1-b2", "text": "Cut dashboard load time by 40% through code splitting and caching" }
+      ]
+    },
+    {
+      "id": "exp-2",
+      "title": "Software Engineering Intern",
+      "company": "Globex",
+      "location": "Remote",
+      "startDate": "May 2022",
+      "endDate": "Aug 2022",
+      "bullets": [
+        { "id": "exp-2-b1", "text": "Implemented a Flask service for internal report generation" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "Resume Assembly",
+      "url": "",
+      "startDate": "2026",
+      "endDate": "",
+      "bullets": [
+        { "id": "proj-1-b1", "text": "Tailors resumes to job postings from a single master profile" }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "school": "State University",
+      "degree": "B.S. Computer Science",
+      "location": "Austin, TX",
+      "startDate": "2019",
+      "endDate": "2023",
+      "bullets": []
+    }
+  ],
+  "skills": [
+    { "id": "skill-1", "category": "Languages", "skills": "TypeScript, Python, SQL" },
+    { "id": "skill-2", "category": "Frameworks", "skills": "React, Next.js, Flask" }
+  ]
+}
