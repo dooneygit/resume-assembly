@@ -1,3 +1,6 @@
+# Product
+Assembles a job-specific resume by having an LLM cherry-pick relevant bullet points, experiences, and projects from a user-maintained master source, matching them against a given job application.
+
 # Coding Guidelines
 
 Behavioral overlay for an AI coding agent. Project-specific commands, stack,
